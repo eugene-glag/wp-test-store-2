@@ -1,0 +1,6 @@
+.idea/
+**/node_modules/
+.htaccess
+*.sql
+**/package-lock.json
+wp-config.php
